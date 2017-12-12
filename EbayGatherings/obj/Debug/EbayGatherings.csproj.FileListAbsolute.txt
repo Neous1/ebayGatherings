@@ -1,0 +1,8 @@
+C:\Users\yvon\dev\WebScrapping\EbayGatherings\EbayGatherings\bin\Debug\EbayGatherings.exe.config
+C:\Users\yvon\dev\WebScrapping\EbayGatherings\EbayGatherings\bin\Debug\EbayGatherings.exe
+C:\Users\yvon\dev\WebScrapping\EbayGatherings\EbayGatherings\bin\Debug\EbayGatherings.pdb
+C:\Users\yvon\dev\WebScrapping\EbayGatherings\EbayGatherings\bin\Debug\WebDriver.dll
+C:\Users\yvon\dev\WebScrapping\EbayGatherings\EbayGatherings\bin\Debug\WebDriver.xml
+C:\Users\yvon\dev\WebScrapping\EbayGatherings\EbayGatherings\obj\Debug\EbayGatherings.csprojResolveAssemblyReference.cache
+C:\Users\yvon\dev\WebScrapping\EbayGatherings\EbayGatherings\obj\Debug\EbayGatherings.exe
+C:\Users\yvon\dev\WebScrapping\EbayGatherings\EbayGatherings\obj\Debug\EbayGatherings.pdb
